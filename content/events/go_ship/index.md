@@ -5,8 +5,8 @@ location: Online at https://youtu.be/R30wczsW0AA
 
 summary: GO-SHIP Monthly Seminar Series
 
-date: 2025-10-2025
-publishDate: 2025-10-2025
+date: 2025-10-20
+publishDate: 2025-10-20
 
 talk_type: "Invited Talk"
 
