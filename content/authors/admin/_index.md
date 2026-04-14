@@ -27,11 +27,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Researcher in Physical Oceanography
+role: Postdoctoral Researcher in Physical Oceanography
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Cambridge — Department of Earth Sciences (Darwin College)
+  - name: University of Cambridge — Department of Applied Maths and Theoretical Physics
     url: https://www.esc.cam.ac.uk/
 
 
@@ -84,10 +84,10 @@ education:
       Awarded the Met Office Academic Partnership Prize and JCA Meldrum Prize.
 
 work:
-  - position: PhD Researcher in Physical Oceanography
-    company_name: University of Cambridge — Department of Earth Sciences
+  - position: Postdoctoral Research Associate in Physical Oceanography
+    company_name: University of Cambridge — Department of Applied Maths and Theoretical Physics
     company_url: https://www.esc.cam.ac.uk/
-    date_start: 2021-10-01
+    date_start: 2025-10-01
     date_end: ''
     summary: |-
       Researching Southern Ocean and Atlantic water-mass dynamics, Antarctic shelf processes, and overturning circulation using observations, inverse methods, and machine learning.  
