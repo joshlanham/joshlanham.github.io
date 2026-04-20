@@ -7,8 +7,6 @@
 title: Josh Lanham
 # Website URL
 baseURL: 'https://joshlanham.github.io/'
-params:
-  description: Personal academic website of Josh Lanham, physical oceanographer at the University of Cambridge
 
 ############################
 ## LANGUAGE
