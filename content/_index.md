@@ -18,7 +18,7 @@ sections:
 
         I combine observations (GO-SHIP, GLODAP, Argo, autonomous gliders), inverse methods, and machine learning to classify water masses and map their variability. I also work with data-assimilating and high-resolution models (ECCO/MITgcm) to study the processes that enable warm water to access ice shelves. Current projects include classifying Atlantic water masses from OMP-derived fractions, assessing poleward migration of CDW, and producing a global mapped transient tracer product using implicit neural networks.
 
-        If you’d like to collaborate, please get in touch.
+        If you’d like to collaborate, please get in touch. For an up-to-date list of publications, please see my [Google Scholar]([https://scholar.google.com/citations?user=C_7jUP0AAAAJ&hl=en]).
       button:
         text: "Download CV"
         url: "uploads/resume.pdf"
